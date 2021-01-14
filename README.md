@@ -4,7 +4,7 @@ Exemplos retirados do freeCodeCamp.org no [youtube](https://www.youtube.com/watc
 
 1. [Simple Stock Price](https://github.com/caiosainvallio/app_data_science/blob/main/myapp.py)
 2. [Simple Bioinformatics DNA Count](https://github.com/caiosainvallio/app_data_science/blob/main/dna-app.py)
-3. EDA Basketball
+3. [EDA Basketball](https://github.com/caiosainvallio/app_data_science/blob/main/basketball_app.py)
 4. EDA Football
 5. EDA SP500 Stock Price
 6. EDA Cryptocurrency
