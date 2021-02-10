@@ -7,7 +7,7 @@ Exemplos retirados do freeCodeCamp.org no [youtube](https://www.youtube.com/watc
 3. [EDA Basketball](https://github.com/caiosainvallio/app_data_science/blob/main/basketball_app.py)
 4. [EDA Football](https://github.com/caiosainvallio/app_data_science/blob/main/football_app.py)
 5. [EDA SP500 Stock Price](https://github.com/caiosainvallio/app_data_science/blob/main/sp500-app.py) [[Notebook](https://github.com/caiosainvallio/app_data_science/blob/main/S%25P500.ipynb)]
-6. EDA Cryptocurrency
+6. [EDA Cryptocurrency](https://github.com/caiosainvallio/app_data_science/blob/main/crypto-price-app.py)
 7. Classification Iris
 8. Classification Penguins
 9. Regression Boston Housing
