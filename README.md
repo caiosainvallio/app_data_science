@@ -2,6 +2,10 @@
 
 Exemplos retirados do freeCodeCamp.org no [youtube](https://www.youtube.com/watch?v=JwSS70SZdyM&feature=youtu.be)
 
+Para rodar:
+
+`streamlit run <nome_do_script>.py`
+
 1. [Simple Stock Price](https://github.com/caiosainvallio/app_data_science/blob/main/myapp.py)
 2. [Simple Bioinformatics DNA Count](https://github.com/caiosainvallio/app_data_science/blob/main/dna-app.py)
 3. [EDA Basketball](https://github.com/caiosainvallio/app_data_science/blob/main/basketball_app.py)
