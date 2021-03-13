@@ -14,7 +14,7 @@ Para rodar:
 6. [EDA Cryptocurrency](https://github.com/caiosainvallio/app_data_science/blob/main/crypto-price-app.py)
 7. [Classification Iris](https://github.com/caiosainvallio/app_data_science/blob/main/iris-ml-app.py)
 8. Classification Penguins  
-    * Model Building  
+    * [Model Building](https://github.com/caiosainvallio/app_data_science/blob/main/penguins-model-building.py)  
     * Classification App
 9. Regression Boston Housing
 10. Regression Bioinformatics Solutbility
