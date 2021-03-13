@@ -13,6 +13,8 @@ Para rodar:
 5. [EDA SP500 Stock Price](https://github.com/caiosainvallio/app_data_science/blob/main/sp500-app.py) [[Notebook](https://github.com/caiosainvallio/app_data_science/blob/main/S%25P500.ipynb)]
 6. [EDA Cryptocurrency](https://github.com/caiosainvallio/app_data_science/blob/main/crypto-price-app.py)
 7. [Classification Iris](https://github.com/caiosainvallio/app_data_science/blob/main/iris-ml-app.py)
-8. Classification Penguins
+8. Classification Penguins  
+    * Model Building  
+    * Classification App
 9. Regression Boston Housing
 10. Regression Bioinformatics Solutbility
