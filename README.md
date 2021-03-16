@@ -16,5 +16,5 @@ Para rodar:
 8. Classification Penguins  
     * [Model Building](https://github.com/caiosainvallio/app_data_science/blob/main/penguins-model-building.py)  
     * [Classification App](https://github.com/caiosainvallio/app_data_science/blob/main/penguins-app.py)
-9. Regression Boston Housing
+9. [Regression Boston Housing](https://github.com/caiosainvallio/app_data_science/blob/main/boston_house-ml-app.py)
 10. Regression Bioinformatics Solutbility
